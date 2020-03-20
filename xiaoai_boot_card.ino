@@ -21,7 +21,7 @@ const int pwr = D5;       //D5-PWR信号
 const int rst = D7;       //D7-RST信号
 
 //---------------定义初始信息--------------
-char auth[] = "61350ce06d5e"; //Your Device Secret Key
+char auth[] = "Your Device Secret Key"; //Your Device Secret Key
 //---------------------------------------
 
 bool oState[3] = { false };    //设置3路开关控制
