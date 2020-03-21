@@ -9,7 +9,7 @@
 
 #### 软件架构
 软件架构说明
-GITHUB:[GitHub点这里](https://github.com/dreamcmi/computer_remote_power_on_card)
+码云:[Gitee点这里](https://gitee.com/chinadreamc/computer_remote_power_on_card)
 
 
 | 功能     | 数据键名（大写） | 默认针脚（ESP8266） | 位置  |
